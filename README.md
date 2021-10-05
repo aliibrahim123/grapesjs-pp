@@ -15,6 +15,7 @@ a plugin / preset for [grapesjs](github.com/artf/grapesjs) that add a lot of fea
 - and others and many coming soon
 
 ## how to use
+first try this [demo](https://aliibrahim123.github.io/grapesjs-pp/index.html)
 
 1. extract the assets archive
 2. open index.html
