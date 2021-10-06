@@ -36,6 +36,6 @@ first try this [demo](https://aliibrahim123.github.io/grapesjs-pp/index.html)
 
 a feature full editor with powerfull features building on top of very wonderfull library, grapesjs
 ## if you want help or have ideas or found bugs
-please add it in the issues and i will help you
-see you with more
+please add it in the issues and i will help you, 
+see you with more, 
 good bye
